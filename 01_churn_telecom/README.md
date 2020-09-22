@@ -1,6 +1,6 @@
 # Отток клиентов
 
-## [Jupyter Notebook](https://github.com/sk-il/portfolio/blob/master/01_churn_telecom/telecom_customers_churn.ipynb)
+### [Jupyter Notebook](https://github.com/sk-il/portfolio/blob/master/01_churn_telecom/telecom_customers_churn.ipynb)
 
 ## Задача
 
