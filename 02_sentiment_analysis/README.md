@@ -1,6 +1,6 @@
 # Анализ тональности текста
 
-[Jupyter Notebook](https://github.com/sk-il/portfolio/blob/master/02_sentiment_analysis/sentiment_analysis.ipynb)
+### [Jupyter Notebook](https://github.com/sk-il/portfolio/blob/master/02_sentiment_analysis/sentiment_analysis.ipynb)
 
 Проект был выполнен в рамках специализации "Машинное обучение и анализ данных" от Яндекс и МФТИ на Coursera.
 
